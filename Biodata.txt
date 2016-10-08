@@ -6,3 +6,6 @@ Hobi	: Futsal
 
 Nama	: Shaleh
 NPM	: 140810160023
+--------------------------------------
+Shaleh Husen Attamimi
+140810160023
