@@ -1,2 +1,5 @@
 Nama	: Eko Fajar Putra
 NPM	: 140810160061
+
+Nama	: Shaleh
+NPM	: 140810160023
