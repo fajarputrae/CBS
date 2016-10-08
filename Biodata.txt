@@ -1,4 +1,5 @@
 Nama	: Eko Fajar Putra
 NPM	: 140810160061
-TTL	: Malang, 27 November
+TTL	: Malang, 27 November 1995
 JK	: Laki-laki
+Hobi	: Futsal
